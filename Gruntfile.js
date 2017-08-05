@@ -41,7 +41,7 @@ module.exports = function (grunt) {
         },
         pages: {
             options: {
-                remote: 'git@github.com:bvasilop/bootstrapping-angular-JS-app.git',
+                remote: 'git@github.com:bvasilop/WeatherApp.git',
                 branch: 'gh-pages'
             }
         }
