@@ -6,7 +6,7 @@
  * @description
  * # bootstrappingAngularJsAppApp
  *
- * Main module of the application.
+ * Main module of the application..
  */
 angular
   .module('bootstrappingAngularJsAppApp', [
