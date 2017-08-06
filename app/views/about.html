@@ -1,0 +1,10 @@
+<h1> Let's play around with views, shall we?</h1>
+<p>This is the about view.</p>
+<!-- Stretch goal for making an adding machine -->
+<div ng-app ng-init="firstnum=1;secondnum=2">
+  <input type="number" min="0" ng-model="firstnum">
+    plus
+  <input type="number" min="0" ng-model="secondnum">
+    equals
+  <span class="label label-success">{{firstnum + secondnum}}</span>
+</div>
